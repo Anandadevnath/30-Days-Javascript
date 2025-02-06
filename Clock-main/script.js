@@ -28,3 +28,4 @@ function setdate() {
 }
 setInterval(setdate, 1000);
 setdate();
+// That's all
